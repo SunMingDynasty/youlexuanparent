@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="offcn_sms" />
+        <module name="youlexuan-task-service" />
+        <module name="youlexuancartinterface" />
+        <module name="youlexuancartservice" />
+        <module name="youlexuancartweb" />
+        <module name="youlexuancommon" />
+        <module name="youlexuancontentinterface" />
+        <module name="youlexuancontentservice" />
+        <module name="youlexuandao" />
+        <module name="youlexuanmanagerweb" />
+        <module name="youlexuanorderinterface" />
+        <module name="youlexuanorderservice" />
+        <module name="youlexuanpageinterface" />
+        <module name="youlexuanpageservice" />
+        <module name="youlexuanpageweb" />
+        <module name="youlexuanpayinterface" />
+        <module name="youlexuanpayservice" />
+        <module name="youlexuanpojo" />
+        <module name="youlexuanprotalweb" />
+        <module name="youlexuansearchinterface" />
+        <module name="youlexuansearchservice" />
+        <module name="youlexuansearchweb" />
+        <module name="youlexuanseckillinterface" />
+        <module name="youlexuanseckillservice" />
+        <module name="youlexuanseckillweb" />
+        <module name="youlexuansellergoodsinterface" />
+        <module name="youlexuansellergoodsservice" />
+        <module name="youlexuanshopweb" />
+        <module name="youlexuansolrutil" />
+        <module name="youlexuantaskservice" />
+        <module name="youlexuanuserinterface" />
+        <module name="youlexuanuserservice" />
+        <module name="youlexuanuserweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alicom-dysms-api" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

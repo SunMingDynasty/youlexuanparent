@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/youlexuancartservice" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuancartweb" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuancontentservice" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanmanagerweb" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanorderservice" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanpageservice" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanpageweb" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanpayservice" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanprotalweb" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuansearchservice" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuansearchweb" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanseckillservice" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanseckillweb" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuansellergoodsservice" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanshopweb" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanuserservice" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuanuserweb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
